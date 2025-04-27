@@ -1,0 +1,34 @@
+{
+    "menu": [
+        {
+            "name": "Burger",
+            "description": "Juicy beef patty with lettuce, tomato, and cheese on a sesame seed bun.",
+            "price": 10.99
+        },
+        {
+            "name": "Pizza",
+            "description": "Classic pizza with mozzarella cheese and pepperoni.",
+            "price": 12.99
+        },
+        {
+            "name": "Pasta",
+            "description": "Spaghetti noodles with marinara sauce and meatballs.",
+            "price": 9.99
+        },
+        {
+            "name": "Salad",
+            "description": "Fresh mixed greens with tomatoes, cucumbers, and choice of dressing.",
+            "price": 7.99
+        },
+        {
+            "name": "Steak",
+            "description": "Grilled sirloin steak served with mashed potatoes and vegetables.",
+            "price": 16.99
+        },
+        {
+            "name": "Fish and Chips",
+            "description": "Crispy battered fish served with fries and tartar sauce.",
+            "price": 11.99
+        }
+    ]
+}
